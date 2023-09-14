@@ -1,0 +1,1162 @@
+{
+    "users": [
+      {
+        "fullName": "mohamedElsayed",
+        "email": "medo@yahoo.com",
+        "password": "medo@yahoo",
+        "id": 1,
+        "cart": [
+          {
+            "id": 1,
+            "title": "iPhone 9",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.9,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "../img1.jpg",
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "title": "iPhone X",
+            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+            "price": 899,
+            "discountPercentage": 17.9,
+            "rating": 4.44,
+            "stock": 34,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "../img2.jpg",
+            "quantity": 1
+          },
+          {
+            "id": 12,
+            "title": "iphone 11",
+            "category": "smartphones",
+            "price": 1500,
+            "stock": 50,
+            "brand": "Apple",
+            "description": "An apple mobile which is nothing like apple",
+            "thumbnail": "../img12.jpeg",
+            "quantity": 6
+          },
+          {
+            "id": 14,
+            "title": "iphone 13",
+            "category": "smartphones",
+            "price": 2200,
+            "stock": 50,
+            "brand": "Apple",
+            "description": "An apple mobile which is nothing like apple",
+            "thumbnail": "../img14.jpg",
+            "quantity": 7
+          }
+        ]
+      },
+      {
+        "fullName": "mohamedElsayedFahim",
+        "email": "medoseuko1230@gmail.com",
+        "password": "medo@yahoo",
+        "id": 2,
+        "cart": []
+      },
+      {
+        "fullName": "mohamedElsayed",
+        "email": "medo123@yahoo.com",
+        "password": "medo@yahoo",
+        "id": 3,
+        "cart": []
+      }
+    ],
+    "settings": [
+      {
+        "id": 1,
+        "key": "page-data",
+        "content": "Rock St 12, Newyork City, USA",
+        "iconClassName": "bi bi-geo-alt"
+      },
+      {
+        "id": 2,
+        "key": "page-data",
+        "content": "(000) 000-000-0000",
+        "iconClassName": "bi bi-telephone"
+      },
+      {
+        "id": 3,
+        "key": "page-data",
+        "content": "Tecno@gmail.com",
+        "iconClassName": "bi bi-envelope-fill"
+      },
+      {
+        "id": 4,
+        "key": "page-data",
+        "content": "Week Days: 09.00 to 18.00 Sunday: Closed",
+        "iconClassName": "bi bi-clock"
+      },
+      {
+        "id": 5,
+        "key": "icon",
+        "className": "bi bi-facebook",
+        "name": "facebook",
+        "href": "https://www.facebook.com/"
+      },
+      {
+        "id": 6,
+        "key": "icon",
+        "className": "bi bi-twitter",
+        "name": "twitter",
+        "href": "https://www.twitter.com/"
+      },
+      {
+        "id": 7,
+        "key": "icon",
+        "className": "bi bi-linkedin",
+        "name": "linked-in",
+        "href": "https://www.linkedin.com/"
+      },
+      {
+        "id": 8,
+        "key": "icon",
+        "className": "bi bi-skype",
+        "name": "skype",
+        "href": "https://www.skype.com/"
+      },
+      {
+        "id": 9,
+        "key": "light-logo",
+        "src": "../logo.svg",
+        "alt": "page light logo"
+      },
+      {
+        "id": 10,
+        "key": "dark-logo",
+        "src": "../logo-dark.svg",
+        "alt": "page dark logo"
+      },
+      {
+        "id": 11,
+        "key": "copy-write",
+        "content": "2023 © All rights reserved by Expert Themes"
+      }
+    ],
+    "services": [
+      {
+        "id": 1,
+        "name1": "For All Devices",
+        "name2": "Fully Responsive",
+        "minDescription": "Having been around for over a decade, Basecamp is considered a reliable tool that excels ...",
+        "fullDescription": "Having been around for over a decade, Basecamp is considered a reliable tool that excels at giving organizations a high-level view of their teams. Like Asana, Basecamp can help monitor tracking, but also offers additional features like direct messaging chats, centralized document storage, and a scheduling tool.Basecamp aims to take on Slack, Asana, Google Drive, and Dropbox by melding all of their competitors into one robust management tool.",
+        "srcDetails": "../service.jpg",
+        "features": "Designed with the harried business person in mind, Basecamp helps managers and team members stay on top of their professional lives. The app boasts that users will no longer drown in a sea of emails as that feature is already embedded into the app. Additionally, the scheduling and tracking features help ensure teams never again miss a deadline. Another interesting component of Basecamp is that managers can eliminate the need for “check-in” meetings by sending an automated message daily to employees that ask for a recap of what they accomplished that day. Then employees can “tag” teammates in their recaps to explain what they need help with or what they finished.",
+        "cost": "A unique feature of Basecamp is that the app doesn’t charge for an increase in the number of users or projects. So unlike some of its peers, Basecamp charges a flat-fixed fee of $99 a month for a team, no matter the size.",
+        "seo1": "Managing a client’s SEO consists of many different timelines and action items. Keeping track of client emails, meetings , and central documents is a full-time job.",
+        "seo2": "By offering one of the best all-encompassing software solutions, Basecamp helps busy SEO pros stay on top of their entire business by more efficiently checking in with their team and deadlines in one easy to use the app.Casie Gillette, senior director of digital marketing at KoMarketing, uses Basecamp mainly for communicating to clients.",
+        "seo3": "“Basecamp is our primary means of communication with clients,” Gillette said. “For any deliverable, it allows an easy way to track the conversation and adjust docs accordingly.”",
+        "key": "special-service",
+        "src": "../service-1.png",
+        "alt": "Service 1 image"
+      },
+      {
+        "id": 2,
+        "name1": "Optimized and",
+        "name2": "SEO Friendly",
+        "minDescription": "Having been around for over a decade, Basecamp is considered a reliable tool that excels ...",
+        "fullDescription": "Having been around for over a decade, Basecamp is considered a reliable tool that excels at giving organizations a high-level view of their teams. Like Asana, Basecamp can help monitor tracking, but also offers additional features like direct messaging chats, centralized document storage, and a scheduling tool.Basecamp aims to take on Slack, Asana, Google Drive, and Dropbox by melding all of their competitors into one robust management tool.",
+        "srcDetails": "../service.jpg",
+        "features": "Designed with the harried business person in mind, Basecamp helps managers and team members stay on top of their professional lives. The app boasts that users will no longer drown in a sea of emails as that feature is already embedded into the app. Additionally, the scheduling and tracking features help ensure teams never again miss a deadline. Another interesting component of Basecamp is that managers can eliminate the need for “check-in” meetings by sending an automated message daily to employees that ask for a recap of what they accomplished that day. Then employees can “tag” teammates in their recaps to explain what they need help with or what they finished.",
+        "cost": "A unique feature of Basecamp is that the app doesn’t charge for an increase in the number of users or projects. So unlike some of its peers, Basecamp charges a flat-fixed fee of $99 a month for a team, no matter the size.",
+        "seo1": "Managing a client’s SEO consists of many different timelines and action items. Keeping track of client emails, meetings , and central documents is a full-time job.",
+        "seo2": "By offering one of the best all-encompassing software solutions, Basecamp helps busy SEO pros stay on top of their entire business by more efficiently checking in with their team and deadlines in one easy to use the app.Casie Gillette, senior director of digital marketing at KoMarketing, uses Basecamp mainly for communicating to clients.",
+        "seo3": "“Basecamp is our primary means of communication with clients,” Gillette said. “For any deliverable, it allows an easy way to track the conversation and adjust docs accordingly.”",
+        "key": "special-service",
+        "src": "../service-2.png",
+        "alt": "Service 2 image"
+      },
+      {
+        "id": 3,
+        "name1": "Super Fast & Great",
+        "name2": "Security",
+        "minDescription": "Having been around for over a decade, Basecamp is considered a reliable tool that excels ...",
+        "fullDescription": "Having been around for over a decade, Basecamp is considered a reliable tool that excels at giving organizations a high-level view of their teams. Like Asana, Basecamp can help monitor tracking, but also offers additional features like direct messaging chats, centralized document storage, and a scheduling tool.Basecamp aims to take on Slack, Asana, Google Drive, and Dropbox by melding all of their competitors into one robust management tool.",
+        "srcDetails": "../service.jpg",
+        "features": "Designed with the harried business person in mind, Basecamp helps managers and team members stay on top of their professional lives. The app boasts that users will no longer drown in a sea of emails as that feature is already embedded into the app. Additionally, the scheduling and tracking features help ensure teams never again miss a deadline. Another interesting component of Basecamp is that managers can eliminate the need for “check-in” meetings by sending an automated message daily to employees that ask for a recap of what they accomplished that day. Then employees can “tag” teammates in their recaps to explain what they need help with or what they finished.",
+        "cost": "A unique feature of Basecamp is that the app doesn’t charge for an increase in the number of users or projects. So unlike some of its peers, Basecamp charges a flat-fixed fee of $99 a month for a team, no matter the size.",
+        "seo1": "Managing a client’s SEO consists of many different timelines and action items. Keeping track of client emails, meetings , and central documents is a full-time job.",
+        "seo2": "By offering one of the best all-encompassing software solutions, Basecamp helps busy SEO pros stay on top of their entire business by more efficiently checking in with their team and deadlines in one easy to use the app.Casie Gillette, senior director of digital marketing at KoMarketing, uses Basecamp mainly for communicating to clients.",
+        "seo3": "“Basecamp is our primary means of communication with clients,” Gillette said. “For any deliverable, it allows an easy way to track the conversation and adjust docs accordingly.”",
+        "key": "special-service",
+        "src": "../service-3.png",
+        "alt": "Service 3 image"
+      },
+      {
+        "id": 4,
+        "name": "Web Develpment",
+        "minDescription": "Having been around for over a decade, Basecamp is considered a reliable tool that excels at giving ...",
+        "fullDescription": "Having been around for over a decade, Basecamp is considered a reliable tool that excels at giving organizations a high-level view of their teams. Like Asana, Basecamp can help monitor tracking, but also offers additional features like direct messaging chats, centralized document storage, and a scheduling tool.Basecamp aims to take on Slack, Asana, Google Drive, and Dropbox by melding all of their competitors into one robust management tool.",
+        "srcDetails": "../service.jpg",
+        "features": "Designed with the harried business person in mind, Basecamp helps managers and team members stay on top of their professional lives. The app boasts that users will no longer drown in a sea of emails as that feature is already embedded into the app. Additionally, the scheduling and tracking features help ensure teams never again miss a deadline. Another interesting component of Basecamp is that managers can eliminate the need for “check-in” meetings by sending an automated message daily to employees that ask for a recap of what they accomplished that day. Then employees can “tag” teammates in their recaps to explain what they need help with or what they finished.",
+        "cost": "A unique feature of Basecamp is that the app doesn’t charge for an increase in the number of users or projects. So unlike some of its peers, Basecamp charges a flat-fixed fee of $99 a month for a team, no matter the size.",
+        "seo1": "Managing a client’s SEO consists of many different timelines and action items. Keeping track of client emails, meetings , and central documents is a full-time job.",
+        "seo2": "By offering one of the best all-encompassing software solutions, Basecamp helps busy SEO pros stay on top of their entire business by more efficiently checking in with their team and deadlines in one easy to use the app.Casie Gillette, senior director of digital marketing at KoMarketing, uses Basecamp mainly for communicating to clients.",
+        "seo3": "“Basecamp is our primary means of communication with clients,” Gillette said. “For any deliverable, it allows an easy way to track the conversation and adjust docs accordingly.”",
+        "key": "normal-service",
+        "className": "bi bi-browser-chrome"
+      },
+      {
+        "id": 5,
+        "name": "Strategy & Planning",
+        "minDescription": "Having been around for over a decade, Basecamp is considered a reliable tool that excels at giving ...",
+        "fullDescription": "Having been around for over a decade, Basecamp is considered a reliable tool that excels at giving organizations a high-level view of their teams. Like Asana, Basecamp can help monitor tracking, but also offers additional features like direct messaging chats, centralized document storage, and a scheduling tool.Basecamp aims to take on Slack, Asana, Google Drive, and Dropbox by melding all of their competitors into one robust management tool.",
+        "srcDetails": "../service.jpg",
+        "features": "Designed with the harried business person in mind, Basecamp helps managers and team members stay on top of their professional lives. The app boasts that users will no longer drown in a sea of emails as that feature is already embedded into the app. Additionally, the scheduling and tracking features help ensure teams never again miss a deadline. Another interesting component of Basecamp is that managers can eliminate the need for “check-in” meetings by sending an automated message daily to employees that ask for a recap of what they accomplished that day. Then employees can “tag” teammates in their recaps to explain what they need help with or what they finished.",
+        "cost": "A unique feature of Basecamp is that the app doesn’t charge for an increase in the number of users or projects. So unlike some of its peers, Basecamp charges a flat-fixed fee of $99 a month for a team, no matter the size.",
+        "seo1": "Managing a client’s SEO consists of many different timelines and action items. Keeping track of client emails, meetings , and central documents is a full-time job.",
+        "seo2": "By offering one of the best all-encompassing software solutions, Basecamp helps busy SEO pros stay on top of their entire business by more efficiently checking in with their team and deadlines in one easy to use the app.Casie Gillette, senior director of digital marketing at KoMarketing, uses Basecamp mainly for communicating to clients.",
+        "seo3": "“Basecamp is our primary means of communication with clients,” Gillette said. “For any deliverable, it allows an easy way to track the conversation and adjust docs accordingly.”",
+        "key": "normal-service",
+        "className": "bi bi-graph-up-arrow"
+      },
+      {
+        "id": 6,
+        "name": "Marketing Research",
+        "minDescription": "Having been around for over a decade, Basecamp is considered a reliable tool that excels at giving ...",
+        "fullDescription": "Having been around for over a decade, Basecamp is considered a reliable tool that excels at giving organizations a high-level view of their teams. Like Asana, Basecamp can help monitor tracking, but also offers additional features like direct messaging chats, centralized document storage, and a scheduling tool.Basecamp aims to take on Slack, Asana, Google Drive, and Dropbox by melding all of their competitors into one robust management tool.",
+        "srcDetails": "../service.jpg",
+        "features": "Designed with the harried business person in mind, Basecamp helps managers and team members stay on top of their professional lives. The app boasts that users will no longer drown in a sea of emails as that feature is already embedded into the app. Additionally, the scheduling and tracking features help ensure teams never again miss a deadline. Another interesting component of Basecamp is that managers can eliminate the need for “check-in” meetings by sending an automated message daily to employees that ask for a recap of what they accomplished that day. Then employees can “tag” teammates in their recaps to explain what they need help with or what they finished.",
+        "cost": "A unique feature of Basecamp is that the app doesn’t charge for an increase in the number of users or projects. So unlike some of its peers, Basecamp charges a flat-fixed fee of $99 a month for a team, no matter the size.",
+        "seo1": "Managing a client’s SEO consists of many different timelines and action items. Keeping track of client emails, meetings , and central documents is a full-time job.",
+        "seo2": "By offering one of the best all-encompassing software solutions, Basecamp helps busy SEO pros stay on top of their entire business by more efficiently checking in with their team and deadlines in one easy to use the app.Casie Gillette, senior director of digital marketing at KoMarketing, uses Basecamp mainly for communicating to clients.",
+        "seo3": "“Basecamp is our primary means of communication with clients,” Gillette said. “For any deliverable, it allows an easy way to track the conversation and adjust docs accordingly.”",
+        "key": "normal-service",
+        "className": "bi bi-search"
+      },
+      {
+        "id": 7,
+        "name": "Growth Tracking",
+        "minDescription": "Having been around for over a decade, Basecamp is considered a reliable tool that excels at giving ...",
+        "fullDescription": "Having been around for over a decade, Basecamp is considered a reliable tool that excels at giving organizations a high-level view of their teams. Like Asana, Basecamp can help monitor tracking, but also offers additional features like direct messaging chats, centralized document storage, and a scheduling tool.Basecamp aims to take on Slack, Asana, Google Drive, and Dropbox by melding all of their competitors into one robust management tool.",
+        "srcDetails": "../service.jpg",
+        "features": "Designed with the harried business person in mind, Basecamp helps managers and team members stay on top of their professional lives. The app boasts that users will no longer drown in a sea of emails as that feature is already embedded into the app. Additionally, the scheduling and tracking features help ensure teams never again miss a deadline. Another interesting component of Basecamp is that managers can eliminate the need for “check-in” meetings by sending an automated message daily to employees that ask for a recap of what they accomplished that day. Then employees can “tag” teammates in their recaps to explain what they need help with or what they finished.",
+        "cost": "A unique feature of Basecamp is that the app doesn’t charge for an increase in the number of users or projects. So unlike some of its peers, Basecamp charges a flat-fixed fee of $99 a month for a team, no matter the size.",
+        "seo1": "Managing a client’s SEO consists of many different timelines and action items. Keeping track of client emails, meetings , and central documents is a full-time job.",
+        "seo2": "By offering one of the best all-encompassing software solutions, Basecamp helps busy SEO pros stay on top of their entire business by more efficiently checking in with their team and deadlines in one easy to use the app.Casie Gillette, senior director of digital marketing at KoMarketing, uses Basecamp mainly for communicating to clients.",
+        "seo3": "“Basecamp is our primary means of communication with clients,” Gillette said. “For any deliverable, it allows an easy way to track the conversation and adjust docs accordingly.”",
+        "key": "normal-service",
+        "className": "bi bi-cart-plus"
+      },
+      {
+        "id": 8,
+        "name": "Enterprise Consulting",
+        "minDescription": "Having been around for over a decade, Basecamp is considered a reliable tool that excels at giving ...",
+        "fullDescription": "Having been around for over a decade, Basecamp is considered a reliable tool that excels at giving organizations a high-level view of their teams. Like Asana, Basecamp can help monitor tracking, but also offers additional features like direct messaging chats, centralized document storage, and a scheduling tool.Basecamp aims to take on Slack, Asana, Google Drive, and Dropbox by melding all of their competitors into one robust management tool.",
+        "srcDetails": "../service.jpg",
+        "features": "Designed with the harried business person in mind, Basecamp helps managers and team members stay on top of their professional lives. The app boasts that users will no longer drown in a sea of emails as that feature is already embedded into the app. Additionally, the scheduling and tracking features help ensure teams never again miss a deadline. Another interesting component of Basecamp is that managers can eliminate the need for “check-in” meetings by sending an automated message daily to employees that ask for a recap of what they accomplished that day. Then employees can “tag” teammates in their recaps to explain what they need help with or what they finished.",
+        "cost": "A unique feature of Basecamp is that the app doesn’t charge for an increase in the number of users or projects. So unlike some of its peers, Basecamp charges a flat-fixed fee of $99 a month for a team, no matter the size.",
+        "seo1": "Managing a client’s SEO consists of many different timelines and action items. Keeping track of client emails, meetings , and central documents is a full-time job.",
+        "seo2": "By offering one of the best all-encompassing software solutions, Basecamp helps busy SEO pros stay on top of their entire business by more efficiently checking in with their team and deadlines in one easy to use the app.Casie Gillette, senior director of digital marketing at KoMarketing, uses Basecamp mainly for communicating to clients.",
+        "seo3": "“Basecamp is our primary means of communication with clients,” Gillette said. “For any deliverable, it allows an easy way to track the conversation and adjust docs accordingly.”",
+        "key": "normal-service",
+        "className": "bi bi-clipboard2-pulse"
+      }
+    ],
+    "numbers": [
+      {
+        "id": 1,
+        "title": "Works Done",
+        "num": 2100
+      },
+      {
+        "id": 2,
+        "title": "Works Done",
+        "num": 100
+      },
+      {
+        "id": 3,
+        "title": "Happy Clients",
+        "num": 1600
+      },
+      {
+        "id": 4,
+        "title": "Years Experience",
+        "num": 75
+      }
+    ],
+    "portfolio": [
+      {
+        "id": 1,
+        "src": "../1.jpg",
+        "alt": "portfoio 1 image",
+        "key": "home-collection",
+        "head": "Technical SEO",
+        "description1": "Cast obscure badger jeep quail congenialy when changed as cat jeepers affectionate thus goodness this far like ipsum dolor sit amet, consectetur adipisicing elits sed do eiusmod tempor incididunt laboret dolore magna aliqua enim ad minim. Eveniet in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis.",
+        "description2": "Dut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams se aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saep.",
+        "challenge": "Peacefully between its four familiar walls. A collection of textile samples lay spread out on the table – Samsa was a travelling salesman – and above it there hung a piture that he had recently cut out of an illustrated magazine A collection of textile samples lay spread out on the table",
+        "challengelist": [
+          "Between its four familiar walls. A collection of textile samples",
+          "A collection of textile samples lay spread out on the table",
+          "Familiar walls a collection of textile samples"
+        ],
+        "cat": "Strategy, Business",
+        "client": "Julia Robertson",
+        "date": "November 20, 2020",
+        "class": "Marketing",
+        "website": "www.example.com",
+        "price": "$30,000"
+      },
+      {
+        "id": 2,
+        "src": "../2.jpg",
+        "alt": "portfoio 2 image",
+        "key": "home-collection",
+        "head": "Content Strategy",
+        "description1": "Cast obscure badger jeep quail congenialy when changed as cat jeepers affectionate thus goodness this far like ipsum dolor sit amet, consectetur adipisicing elits sed do eiusmod tempor incididunt laboret dolore magna aliqua enim ad minim. Eveniet in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis.",
+        "description2": "Dut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams se aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saep.",
+        "challenge": "Peacefully between its four familiar walls. A collection of textile samples lay spread out on the table – Samsa was a travelling salesman – and above it there hung a piture that he had recently cut out of an illustrated magazine A collection of textile samples lay spread out on the table",
+        "challengelist": [
+          "Between its four familiar walls. A collection of textile samples",
+          "A collection of textile samples lay spread out on the table",
+          "Familiar walls a collection of textile samples"
+        ],
+        "cat": "Strategy, Business",
+        "client": "Julia Robertson",
+        "date": "November 20, 2020",
+        "class": "Marketing",
+        "website": "www.example.com",
+        "price": "$30,000"
+      },
+      {
+        "id": 3,
+        "src": "../3.jpg",
+        "alt": "portfoio 3 image",
+        "key": "home-collection",
+        "head": "Social Engagement",
+        "description1": "Cast obscure badger jeep quail congenialy when changed as cat jeepers affectionate thus goodness this far like ipsum dolor sit amet, consectetur adipisicing elits sed do eiusmod tempor incididunt laboret dolore magna aliqua enim ad minim. Eveniet in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis.",
+        "description2": "Dut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams se aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saep.",
+        "challenge": "Peacefully between its four familiar walls. A collection of textile samples lay spread out on the table – Samsa was a travelling salesman – and above it there hung a piture that he had recently cut out of an illustrated magazine A collection of textile samples lay spread out on the table",
+        "challengelist": [
+          "Between its four familiar walls. A collection of textile samples",
+          "A collection of textile samples lay spread out on the table",
+          "Familiar walls a collection of textile samples"
+        ],
+        "cat": "Strategy, Business",
+        "client": "Julia Robertson",
+        "date": "November 20, 2020",
+        "class": "Marketing",
+        "website": "www.example.com",
+        "price": "$30,000"
+      },
+      {
+        "id": 4,
+        "src": "../4.jpg",
+        "alt": "portfoio 4 image",
+        "key": "home-collection",
+        "head": "Plan Management",
+        "description1": "Cast obscure badger jeep quail congenialy when changed as cat jeepers affectionate thus goodness this far like ipsum dolor sit amet, consectetur adipisicing elits sed do eiusmod tempor incididunt laboret dolore magna aliqua enim ad minim. Eveniet in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis.",
+        "description2": "Dut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams se aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saep.",
+        "challenge": "Peacefully between its four familiar walls. A collection of textile samples lay spread out on the table – Samsa was a travelling salesman – and above it there hung a piture that he had recently cut out of an illustrated magazine A collection of textile samples lay spread out on the table",
+        "challengelist": [
+          "Between its four familiar walls. A collection of textile samples",
+          "A collection of textile samples lay spread out on the table",
+          "Familiar walls a collection of textile samples"
+        ],
+        "cat": "Strategy, Business",
+        "client": "Julia Robertson",
+        "date": "November 20, 2020",
+        "class": "Marketing",
+        "website": "www.example.com",
+        "price": "$30,000"
+      },
+      {
+        "id": 5,
+        "key": "portfolio-collection",
+        "src": "../portfolio-1.jpg",
+        "alt": "portfoio 5 image",
+        "head": "Content Strategy",
+        "cat": "work",
+        "description1": "Cast obscure badger jeep quail congenialy when changed as cat jeepers affectionate thus goodness this far like ipsum dolor sit amet, consectetur adipisicing elits sed do eiusmod tempor incididunt laboret dolore magna aliqua enim ad minim. Eveniet in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis.",
+        "description2": "Dut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams se aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saep.",
+        "challenge": "Peacefully between its four familiar walls. A collection of textile samples lay spread out on the table – Samsa was a travelling salesman – and above it there hung a piture that he had recently cut out of an illustrated magazine A collection of textile samples lay spread out on the table",
+        "challengelist": [
+          "Between its four familiar walls. A collection of textile samples",
+          "A collection of textile samples lay spread out on the table",
+          "Familiar walls a collection of textile samples"
+        ],
+        "client": "Julia Robertson",
+        "date": "November 20, 2020",
+        "class": "Marketing",
+        "website": "www.example.com",
+        "price": "$30,000"
+      },
+      {
+        "id": 6,
+        "key": "portfolio-collection",
+        "src": "../portfolio-2.jpg",
+        "alt": "portfoio 6 image",
+        "head": "Social Engagement",
+        "cat": "PHOTOGRAPHY, WEBSITE",
+        "description1": "Cast obscure badger jeep quail congenialy when changed as cat jeepers affectionate thus goodness this far like ipsum dolor sit amet, consectetur adipisicing elits sed do eiusmod tempor incididunt laboret dolore magna aliqua enim ad minim. Eveniet in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis.",
+        "description2": "Dut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams se aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saep.",
+        "challenge": "Peacefully between its four familiar walls. A collection of textile samples lay spread out on the table – Samsa was a travelling salesman – and above it there hung a piture that he had recently cut out of an illustrated magazine A collection of textile samples lay spread out on the table",
+        "challengelist": [
+          "Between its four familiar walls. A collection of textile samples",
+          "A collection of textile samples lay spread out on the table",
+          "Familiar walls a collection of textile samples"
+        ],
+        "client": "Julia Robertson",
+        "date": "November 20, 2020",
+        "class": "Marketing",
+        "website": "www.example.com",
+        "price": "$30,000"
+      },
+      {
+        "id": 7,
+        "key": "portfolio-collection",
+        "src": "../portfolio-3.jpg",
+        "alt": "portfoio 7 image",
+        "head": "Content Strategy",
+        "cat": "BRANDING, MOBILE",
+        "description1": "Cast obscure badger jeep quail congenialy when changed as cat jeepers affectionate thus goodness this far like ipsum dolor sit amet, consectetur adipisicing elits sed do eiusmod tempor incididunt laboret dolore magna aliqua enim ad minim. Eveniet in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis.",
+        "description2": "Dut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams se aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saep.",
+        "challenge": "Peacefully between its four familiar walls. A collection of textile samples lay spread out on the table – Samsa was a travelling salesman – and above it there hung a piture that he had recently cut out of an illustrated magazine A collection of textile samples lay spread out on the table",
+        "challengelist": [
+          "Between its four familiar walls. A collection of textile samples",
+          "A collection of textile samples lay spread out on the table",
+          "Familiar walls a collection of textile samples"
+        ],
+        "client": "Julia Robertson",
+        "date": "November 20, 2020",
+        "class": "Marketing",
+        "website": "www.example.com",
+        "price": "$30,000"
+      },
+      {
+        "id": 8,
+        "key": "portfolio-collection",
+        "src": "../portfolio-4.jpg",
+        "alt": "portfoio 8 image",
+        "head": "Plan Management",
+        "cat": "WEBSITE, WORK",
+        "description1": "Cast obscure badger jeep quail congenialy when changed as cat jeepers affectionate thus goodness this far like ipsum dolor sit amet, consectetur adipisicing elits sed do eiusmod tempor incididunt laboret dolore magna aliqua enim ad minim. Eveniet in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis.",
+        "description2": "Dut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams se aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saep.",
+        "challenge": "Peacefully between its four familiar walls. A collection of textile samples lay spread out on the table – Samsa was a travelling salesman – and above it there hung a piture that he had recently cut out of an illustrated magazine A collection of textile samples lay spread out on the table",
+        "challengelist": [
+          "Between its four familiar walls. A collection of textile samples",
+          "A collection of textile samples lay spread out on the table",
+          "Familiar walls a collection of textile samples"
+        ],
+        "client": "Julia Robertson",
+        "date": "November 20, 2020",
+        "class": "Marketing",
+        "website": "www.example.com",
+        "price": "$30,000"
+      },
+      {
+        "id": 9,
+        "key": "portfolio-collection",
+        "src": "../portfolio-5.jpg",
+        "alt": "portfoio 9 image",
+        "head": "Technical SEO",
+        "cat": "PHOTOGRAPHY",
+        "description1": "Cast obscure badger jeep quail congenialy when changed as cat jeepers affectionate thus goodness this far like ipsum dolor sit amet, consectetur adipisicing elits sed do eiusmod tempor incididunt laboret dolore magna aliqua enim ad minim. Eveniet in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis.",
+        "description2": "Dut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams se aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saep.",
+        "challenge": "Peacefully between its four familiar walls. A collection of textile samples lay spread out on the table – Samsa was a travelling salesman – and above it there hung a piture that he had recently cut out of an illustrated magazine A collection of textile samples lay spread out on the table",
+        "challengelist": [
+          "Between its four familiar walls. A collection of textile samples",
+          "A collection of textile samples lay spread out on the table",
+          "Familiar walls a collection of textile samples"
+        ],
+        "client": "Julia Robertson",
+        "date": "November 20, 2020",
+        "class": "Marketing",
+        "website": "www.example.com",
+        "price": "$30,000"
+      },
+      {
+        "id": 10,
+        "key": "portfolio-collection",
+        "src": "../portfolio-6.jpg",
+        "alt": "portfoio 10 image",
+        "head": "Digital Analysis",
+        "cat": "BRANDING, MOBILE",
+        "description1": "Cast obscure badger jeep quail congenialy when changed as cat jeepers affectionate thus goodness this far like ipsum dolor sit amet, consectetur adipisicing elits sed do eiusmod tempor incididunt laboret dolore magna aliqua enim ad minim. Eveniet in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis.",
+        "description2": "Dut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams se aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saep.",
+        "challenge": "Peacefully between its four familiar walls. A collection of textile samples lay spread out on the table – Samsa was a travelling salesman – and above it there hung a piture that he had recently cut out of an illustrated magazine A collection of textile samples lay spread out on the table",
+        "challengelist": [
+          "Between its four familiar walls. A collection of textile samples",
+          "A collection of textile samples lay spread out on the table",
+          "Familiar walls a collection of textile samples"
+        ],
+        "client": "Julia Robertson",
+        "date": "November 20, 2020",
+        "class": "Marketing",
+        "website": "www.example.com",
+        "price": "$30,000"
+      },
+      {
+        "id": 11,
+        "key": "portfolio-collection",
+        "src": "../portfolio-7.jpg",
+        "alt": "portfoio 11 image",
+        "head": "Social Ranking",
+        "cat": "WEBSITE, WORK",
+        "description1": "Cast obscure badger jeep quail congenialy when changed as cat jeepers affectionate thus goodness this far like ipsum dolor sit amet, consectetur adipisicing elits sed do eiusmod tempor incididunt laboret dolore magna aliqua enim ad minim. Eveniet in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis.",
+        "description2": "Dut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams se aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saep.",
+        "challenge": "Peacefully between its four familiar walls. A collection of textile samples lay spread out on the table – Samsa was a travelling salesman – and above it there hung a piture that he had recently cut out of an illustrated magazine A collection of textile samples lay spread out on the table",
+        "challengelist": [
+          "Between its four familiar walls. A collection of textile samples",
+          "A collection of textile samples lay spread out on the table",
+          "Familiar walls a collection of textile samples"
+        ],
+        "client": "Julia Robertson",
+        "date": "November 20, 2020",
+        "class": "Marketing",
+        "website": "www.example.com",
+        "price": "$30,000"
+      },
+      {
+        "id": 12,
+        "key": "portfolio-collection",
+        "src": "../portfolio-8.jpg",
+        "alt": "portfoio 12 image",
+        "head": "Content Strategy",
+        "cat": "PHOTOGRAPHY",
+        "description1": "Cast obscure badger jeep quail congenialy when changed as cat jeepers affectionate thus goodness this far like ipsum dolor sit amet, consectetur adipisicing elits sed do eiusmod tempor incididunt laboret dolore magna aliqua enim ad minim. Eveniet in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis.",
+        "description2": "Dut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams se aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saep.",
+        "challenge": "Peacefully between its four familiar walls. A collection of textile samples lay spread out on the table – Samsa was a travelling salesman – and above it there hung a piture that he had recently cut out of an illustrated magazine A collection of textile samples lay spread out on the table",
+        "challengelist": [
+          "Between its four familiar walls. A collection of textile samples",
+          "A collection of textile samples lay spread out on the table",
+          "Familiar walls a collection of textile samples"
+        ],
+        "client": "Julia Robertson",
+        "date": "November 20, 2020",
+        "class": "Marketing",
+        "website": "www.example.com",
+        "price": "$30,000"
+      },
+      {
+        "id": 13,
+        "key": "portfolio-collection",
+        "src": "../portfolio-9.jpg",
+        "alt": "portfoio 13 image",
+        "head": "Social Engagement",
+        "cat": "BRANDING, MOBILE",
+        "description1": "Cast obscure badger jeep quail congenialy when changed as cat jeepers affectionate thus goodness this far like ipsum dolor sit amet, consectetur adipisicing elits sed do eiusmod tempor incididunt laboret dolore magna aliqua enim ad minim. Eveniet in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis.",
+        "description2": "Dut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams se aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saep.",
+        "challenge": "Peacefully between its four familiar walls. A collection of textile samples lay spread out on the table – Samsa was a travelling salesman – and above it there hung a piture that he had recently cut out of an illustrated magazine A collection of textile samples lay spread out on the table",
+        "challengelist": [
+          "Between its four familiar walls. A collection of textile samples",
+          "A collection of textile samples lay spread out on the table",
+          "Familiar walls a collection of textile samples"
+        ],
+        "client": "Julia Robertson",
+        "date": "November 20, 2020",
+        "class": "Marketing",
+        "website": "www.example.com",
+        "price": "$30,000"
+      }
+    ],
+    "ourteam": [
+      {
+        "id": 1,
+        "src": "../team-1.png",
+        "alt": "ourTeam image 1",
+        "name": "Suresh Bollom",
+        "job": "Former Developer",
+        "key": "home-collection",
+        "skills": [
+          [
+            "Market Share In Ce Regoin",
+            "85%"
+          ],
+          [
+            "Revenue Growth Per Year",
+            "65%"
+          ],
+          [
+            "Expert Team Member",
+            "90%"
+          ],
+          [
+            "Profit Growth Per Year",
+            "75%"
+          ]
+        ],
+        "userDetails1": "Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti soconubia nostra.Integer dignissim dolor quis lorem semper, sit amet convallis ipsum dignissim. Sed diam quam, aliquam a fringilla at, lobortis sed velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla iaculis enim id mauris pharetra laoreet. Aliquam a ipsum fringilla purus euismod bibendum et et ipsum. Suspendisse eget sagittis sem. Nam vitae purus ante. Nam aliquam luctus diam.",
+        "userDetails2": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam vel erat vitae lectus dictum lacinia. Sed nec dolor at lacus sagittis ultrices a et lorem. Aliquam fermentum consequat dolor, nec lacinia lectus fermentum ut. In et justo id justo tristique placerat. Nulla facilisi. Maecenas commodo erat in nisi vehicula lobortis in vitae urna. Sed rhoncus mi quis nulla aliquam, vel eleifend purus molestieNullam vel erat vitae lectus dictum lacinia. Sed nec dolor at lacus sagittis ultrices a et lorem. Aliquam fermentum consequat dolor, nec lacinia lectus fermentum ut. In et justo id justo tristique placerat. Nulla facilisi. Maecenas commodo erat in nisi vehicula lobortis in vitae urna. Sed rhoncus mi quis nulla aliquam, vel eleifend purus molestie"
+      },
+      {
+        "id": 2,
+        "src": "../team-2.png",
+        "alt": "ourTeam image 2",
+        "name": "Michael Scott",
+        "job": "Ul / Ux Designer",
+        "key": "home-collection",
+        "skills": [
+          [
+            "Market Share In Ce Regoin",
+            "85%"
+          ],
+          [
+            "Revenue Growth Per Year",
+            "65%"
+          ],
+          [
+            "Expert Team Member",
+            "90%"
+          ],
+          [
+            "Profit Growth Per Year",
+            "75%"
+          ]
+        ],
+        "userDetails1": "Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti soconubia nostra.Integer dignissim dolor quis lorem semper, sit amet convallis ipsum dignissim. Sed diam quam, aliquam a fringilla at, lobortis sed velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla iaculis enim id mauris pharetra laoreet. Aliquam a ipsum fringilla purus euismod bibendum et et ipsum. Suspendisse eget sagittis sem. Nam vitae purus ante. Nam aliquam luctus diam.",
+        "userDetails2": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam vel erat vitae lectus dictum lacinia. Sed nec dolor at lacus sagittis ultrices a et lorem. Aliquam fermentum consequat dolor, nec lacinia lectus fermentum ut. In et justo id justo tristique placerat. Nulla facilisi. Maecenas commodo erat in nisi vehicula lobortis in vitae urna. Sed rhoncus mi quis nulla aliquam, vel eleifend purus molestieNullam vel erat vitae lectus dictum lacinia. Sed nec dolor at lacus sagittis ultrices a et lorem. Aliquam fermentum consequat dolor, nec lacinia lectus fermentum ut. In et justo id justo tristique placerat. Nulla facilisi. Maecenas commodo erat in nisi vehicula lobortis in vitae urna. Sed rhoncus mi quis nulla aliquam, vel eleifend purus molestie"
+      },
+      {
+        "id": 3,
+        "src": "../team-3.png",
+        "alt": "ourTeam image 3",
+        "name": "Domina Li",
+        "job": "Former Developer",
+        "key": "home-collection",
+        "skills": [
+          [
+            "Market Share In Ce Regoin",
+            "85%"
+          ],
+          [
+            "Revenue Growth Per Year",
+            "65%"
+          ],
+          [
+            "Expert Team Member",
+            "90%"
+          ],
+          [
+            "Profit Growth Per Year",
+            "75%"
+          ]
+        ],
+        "userDetails1": "Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti soconubia nostra.Integer dignissim dolor quis lorem semper, sit amet convallis ipsum dignissim. Sed diam quam, aliquam a fringilla at, lobortis sed velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla iaculis enim id mauris pharetra laoreet. Aliquam a ipsum fringilla purus euismod bibendum et et ipsum. Suspendisse eget sagittis sem. Nam vitae purus ante. Nam aliquam luctus diam.",
+        "userDetails2": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam vel erat vitae lectus dictum lacinia. Sed nec dolor at lacus sagittis ultrices a et lorem. Aliquam fermentum consequat dolor, nec lacinia lectus fermentum ut. In et justo id justo tristique placerat. Nulla facilisi. Maecenas commodo erat in nisi vehicula lobortis in vitae urna. Sed rhoncus mi quis nulla aliquam, vel eleifend purus molestieNullam vel erat vitae lectus dictum lacinia. Sed nec dolor at lacus sagittis ultrices a et lorem. Aliquam fermentum consequat dolor, nec lacinia lectus fermentum ut. In et justo id justo tristique placerat. Nulla facilisi. Maecenas commodo erat in nisi vehicula lobortis in vitae urna. Sed rhoncus mi quis nulla aliquam, vel eleifend purus molestie"
+      },
+      {
+        "id": 4,
+        "src": "../team-4.png",
+        "alt": "ourTeam image 4",
+        "name": "Suresh Bollom",
+        "job": "Former Developer",
+        "skills": [
+          [
+            "Market Share In Ce Regoin",
+            "85%"
+          ],
+          [
+            "Revenue Growth Per Year",
+            "65%"
+          ],
+          [
+            "Expert Team Member",
+            "90%"
+          ],
+          [
+            "Profit Growth Per Year",
+            "75%"
+          ]
+        ],
+        "userDetails1": "Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti soconubia nostra.Integer dignissim dolor quis lorem semper, sit amet convallis ipsum dignissim. Sed diam quam, aliquam a fringilla at, lobortis sed velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla iaculis enim id mauris pharetra laoreet. Aliquam a ipsum fringilla purus euismod bibendum et et ipsum. Suspendisse eget sagittis sem. Nam vitae purus ante. Nam aliquam luctus diam.",
+        "userDetails2": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam vel erat vitae lectus dictum lacinia. Sed nec dolor at lacus sagittis ultrices a et lorem. Aliquam fermentum consequat dolor, nec lacinia lectus fermentum ut. In et justo id justo tristique placerat. Nulla facilisi. Maecenas commodo erat in nisi vehicula lobortis in vitae urna. Sed rhoncus mi quis nulla aliquam, vel eleifend purus molestieNullam vel erat vitae lectus dictum lacinia. Sed nec dolor at lacus sagittis ultrices a et lorem. Aliquam fermentum consequat dolor, nec lacinia lectus fermentum ut. In et justo id justo tristique placerat. Nulla facilisi. Maecenas commodo erat in nisi vehicula lobortis in vitae urna. Sed rhoncus mi quis nulla aliquam, vel eleifend purus molestie"
+      },
+      {
+        "id": 5,
+        "src": "../team-6.png",
+        "alt": "ourTeam image 6",
+        "name": "Domina Li",
+        "job": "Ul / Ux Designer",
+        "skills": [
+          [
+            "Market Share In Ce Regoin",
+            "85%"
+          ],
+          [
+            "Revenue Growth Per Year",
+            "65%"
+          ],
+          [
+            "Expert Team Member",
+            "90%"
+          ],
+          [
+            "Profit Growth Per Year",
+            "75%"
+          ]
+        ],
+        "userDetails1": "Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti soconubia nostra.Integer dignissim dolor quis lorem semper, sit amet convallis ipsum dignissim. Sed diam quam, aliquam a fringilla at, lobortis sed velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla iaculis enim id mauris pharetra laoreet. Aliquam a ipsum fringilla purus euismod bibendum et et ipsum. Suspendisse eget sagittis sem. Nam vitae purus ante. Nam aliquam luctus diam.",
+        "userDetails2": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam vel erat vitae lectus dictum lacinia. Sed nec dolor at lacus sagittis ultrices a et lorem. Aliquam fermentum consequat dolor, nec lacinia lectus fermentum ut. In et justo id justo tristique placerat. Nulla facilisi. Maecenas commodo erat in nisi vehicula lobortis in vitae urna. Sed rhoncus mi quis nulla aliquam, vel eleifend purus molestieNullam vel erat vitae lectus dictum lacinia. Sed nec dolor at lacus sagittis ultrices a et lorem. Aliquam fermentum consequat dolor, nec lacinia lectus fermentum ut. In et justo id justo tristique placerat. Nulla facilisi. Maecenas commodo erat in nisi vehicula lobortis in vitae urna. Sed rhoncus mi quis nulla aliquam, vel eleifend purus molestie"
+      },
+      {
+        "id": 6,
+        "src": "../team-5.png",
+        "alt": "ourTeam image 5",
+        "name": "Michael Scott",
+        "job": "Former Developer",
+        "skills": [
+          [
+            "Market Share In Ce Regoin",
+            "85%"
+          ],
+          [
+            "Revenue Growth Per Year",
+            "65%"
+          ],
+          [
+            "Expert Team Member",
+            "90%"
+          ],
+          [
+            "Profit Growth Per Year",
+            "75%"
+          ]
+        ],
+        "userDetails1": "Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti soconubia nostra.Integer dignissim dolor quis lorem semper, sit amet convallis ipsum dignissim. Sed diam quam, aliquam a fringilla at, lobortis sed velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla iaculis enim id mauris pharetra laoreet. Aliquam a ipsum fringilla purus euismod bibendum et et ipsum. Suspendisse eget sagittis sem. Nam vitae purus ante. Nam aliquam luctus diam.",
+        "userDetails2": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam vel erat vitae lectus dictum lacinia. Sed nec dolor at lacus sagittis ultrices a et lorem. Aliquam fermentum consequat dolor, nec lacinia lectus fermentum ut. In et justo id justo tristique placerat. Nulla facilisi. Maecenas commodo erat in nisi vehicula lobortis in vitae urna. Sed rhoncus mi quis nulla aliquam, vel eleifend purus molestieNullam vel erat vitae lectus dictum lacinia. Sed nec dolor at lacus sagittis ultrices a et lorem. Aliquam fermentum consequat dolor, nec lacinia lectus fermentum ut. In et justo id justo tristique placerat. Nulla facilisi. Maecenas commodo erat in nisi vehicula lobortis in vitae urna. Sed rhoncus mi quis nulla aliquam, vel eleifend purus molestie"
+      }
+    ],
+    "testimonials": [
+      {
+        "id": 1,
+        "name": "Zahini Clark",
+        "job": "Ux & Product Designer",
+        "demo": "We’re on a mission to start a conversation with your customers in this fast connected world. Let’s discover, build and grow your digital business. Let’s discover, build and grow your digital business. We're on a mission to start a conversation with your customers in this fast connected world",
+        "minDemo": "We’re on a mission to start a conversation with your customers in this fast connected world. Let’s discover, build and grow your digital business. Let’s ...",
+        "src": "../author-4.png",
+        "alt": "author 4 image"
+      },
+      {
+        "id": 2,
+        "name": "Charles Sarah",
+        "job": "Ux & Product Designer",
+        "demo": "We’re on a mission to start a conversation with your customers in this fast connected world. Let’s discover, build and grow your digital business. Let’s discover, build and grow your digital business. We're on a mission to start a conversation with your customers in this fast connected world",
+        "minDemo": "We’re on a mission to start a conversation with your customers in this fast connected world. Let’s discover, build and grow your digital business. Let’s ...",
+        "src": "../author-5.png",
+        "alt": "author 5 image"
+      }
+    ],
+    "portfolioCategories": [
+      {
+        "id": 1,
+        "name": "All"
+      },
+      {
+        "id": 2,
+        "name": "Work"
+      },
+      {
+        "id": 3,
+        "name": "Photography"
+      },
+      {
+        "id": 4,
+        "name": "Website"
+      },
+      {
+        "id": 5,
+        "name": "Branding"
+      },
+      {
+        "id": 6,
+        "name": "Mobile"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "title": "iPhone 9",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 549,
+        "discountPercentage": 12.9,
+        "rating": 4.69,
+        "stock": 94,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "../img1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "iPhone X",
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+        "price": 899,
+        "discountPercentage": 17.9,
+        "rating": 4.44,
+        "stock": 34,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "../img2.jpg"
+      },
+      {
+        "id": 12,
+        "title": "iphone 11",
+        "category": "smartphones",
+        "price": 1500,
+        "stock": 50,
+        "brand": "Apple",
+        "description": "An apple mobile which is nothing like apple",
+        "thumbnail": "../img12.jpeg"
+      },
+      {
+        "id": 13,
+        "title": "iphone 12",
+        "category": "smartphones",
+        "price": 1900,
+        "stock": 50,
+        "brand": "Apple",
+        "description": "An apple mobile which is nothing like apple",
+        "thumbnail": "../img13.webp"
+      },
+      {
+        "id": 14,
+        "title": "iphone 13",
+        "category": "smartphones",
+        "price": 2200,
+        "stock": 50,
+        "brand": "Apple",
+        "description": "An apple mobile which is nothing like apple",
+        "thumbnail": "../img14.jpg"
+      },
+      {
+        "title": "iphone 14",
+        "price": 2400,
+        "category": "smartphones",
+        "description": "Iphone",
+        "brand": "Apple",
+        "stock": 30,
+        "thumbnail": "../img11.jpg",
+        "id": 11
+      },
+      {
+        "id": 3,
+        "title": "Samsung Universe 9",
+        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+        "price": 1249,
+        "discountPercentage": 15.5,
+        "rating": 4.09,
+        "stock": 36,
+        "brand": "Samsung",
+        "category": "smartphones",
+        "thumbnail": "../img3.jpg"
+      },
+      {
+        "id": 17,
+        "title": "Samsung Galaxy S8",
+        "description": "Samsung Galaxy S8 is officially announced on April 2018.",
+        "price": 280,
+        "discountPercentage": 10,
+        "rating": 4,
+        "stock": 55,
+        "brand": "Samsung",
+        "category": "smartphones",
+        "thumbnail": "../img17.jpg"
+      },
+      {
+        "id": 18,
+        "title": "Samsung Galaxy S9",
+        "description": "Samsung Galaxy S9 is officially announced on April 2019.",
+        "price": 300,
+        "discountPercentage": 10,
+        "rating": 4.1,
+        "stock": 55,
+        "brand": "Samsung",
+        "category": "smartphones",
+        "thumbnail": "../img18.jpg"
+      },
+      {
+        "id": 19,
+        "title": "Samsung Galaxy S10",
+        "description": "Samsung Galaxy S10 is officially announced on April 2020.",
+        "price": 400,
+        "discountPercentage": 5,
+        "rating": 4.5,
+        "stock": 190,
+        "brand": "Samsung",
+        "category": "smartphones",
+        "thumbnail": "../img19.webp"
+      },
+      {
+        "id": 20,
+        "title": "Samsung Galaxy S11",
+        "description": "Samsung Galaxy S11 is officially announced on April 2021.",
+        "price": 450,
+        "discountPercentage": 6,
+        "rating": 4.8,
+        "stock": 90,
+        "brand": "Samsung",
+        "category": "smartphones",
+        "thumbnail": "../img20.jpg"
+      },
+      {
+        "id": 21,
+        "title": "Samsung Galaxy S12",
+        "description": "Samsung Galaxy S12 is officially announced on April 2022.",
+        "price": 500,
+        "discountPercentage": 9,
+        "rating": 4.9,
+        "stock": 70,
+        "brand": "Samsung",
+        "category": "smartphones",
+        "thumbnail": "../img21.webp"
+      },
+      {
+        "id": 4,
+        "title": "OPPOF19",
+        "description": "OPPO F19 is officially announced on April 2021.",
+        "price": "280",
+        "discountPercentage": 17.9,
+        "rating": 4.3,
+        "stock": 123,
+        "brand": "OPPO",
+        "category": "smartphones",
+        "thumbnail": "../img4.jpg"
+      },
+      {
+        "id": 15,
+        "title": "OPPO F9",
+        "description": "OPPO F9 is officially announced on April 2017.",
+        "price": 280,
+        "discountPercentage": 17,
+        "rating": 3.8,
+        "stock": 20,
+        "brand": "OPPO",
+        "category": "smartphones",
+        "thumbnail": "../img15.jpg"
+      },
+      {
+        "id": 16,
+        "title": "OPPO RENO 5",
+        "description": "OPPO RENO 5 is officially announced on April 2019.",
+        "price": 280,
+        "discountPercentage": 17,
+        "rating": 4,
+        "stock": 50,
+        "brand": "OPPO",
+        "category": "smartphones",
+        "thumbnail": "../img16.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Huawei P30",
+        "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "price": 499,
+        "discountPercentage": 10.5,
+        "rating": 4.09,
+        "stock": 32,
+        "brand": "Huawei",
+        "category": "smartphones",
+        "thumbnail": "../img5.jpg"
+      },
+      {
+        "id": 23,
+        "title": "Huawei P40",
+        "description": "Huawei’s re-badged P40 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "price": 3000,
+        "rating": 4,
+        "stock": 70,
+        "brand": "Huawei",
+        "category": "smartphones",
+        "thumbnail": "../img23.jpg"
+      },
+      {
+        "id": 24,
+        "title": "Huawei P50",
+        "description": "Huawei’s re-badged P50 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "price": 400,
+        "discountPercentage": 7,
+        "rating": 4,
+        "stock": 50,
+        "brand": "Huawei",
+        "category": "smartphones",
+        "thumbnail": "../img24.jpg"
+      },
+      {
+        "id": 27,
+        "title": "Dell Hong Kong",
+        "description": "Dell Hong Kong Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+        "price": 1200,
+        "discountPercentage": 6.5,
+        "rating": 4.5,
+        "stock": 84,
+        "brand": "Dell",
+        "category": "laptops",
+        "thumbnail": "../img27.avif"
+      },
+      {
+        "id": 34,
+        "title": "Dell Core-i5",
+        "description": "Dell Core-i5 Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+        "price": 900,
+        "discountPercentage": 6,
+        "rating": 4,
+        "stock": 90,
+        "brand": "Dell",
+        "category": "laptops",
+        "thumbnail": "../img34.webp"
+      },
+      {
+        "id": 35,
+        "title": "Dell Core-i7",
+        "description": "Dell Core-i7 Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+        "price": 1099,
+        "discountPercentage": 6,
+        "rating": 4.2,
+        "stock": 70,
+        "brand": "Dell",
+        "category": "laptops",
+        "thumbnail": "../img35.jpg"
+      },
+      {
+        "id": 6,
+        "title": "MacBook Pro",
+        "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+        "price": 1749,
+        "discountPercentage": 11,
+        "rating": 4.5,
+        "stock": 83,
+        "brand": "Apple",
+        "category": "laptops",
+        "thumbnail": "../img6.png"
+      },
+      {
+        "id": 7,
+        "title": "Samsung Galaxy Book",
+        "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+        "price": 1499,
+        "discountPercentage": 4.5,
+        "rating": 4.25,
+        "stock": 50,
+        "brand": "Samsung",
+        "category": "laptops",
+        "thumbnail": "../img7.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Microsoft Surface Laptop 4",
+        "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+        "price": 1499,
+        "discountPercentage": 10.8,
+        "rating": 4.43,
+        "stock": 68,
+        "brand": "Microsoft Surface",
+        "category": "laptops",
+        "thumbnail": "../img8.jpg"
+      },
+      {
+        "id": 32,
+        "title": "Microsoft Surface pro 8",
+        "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+        "price": 1900,
+        "discountPercentage": 10,
+        "rating": 4.7,
+        "stock": 90,
+        "brand": "Microsoft Surface",
+        "category": "laptops",
+        "thumbnail": "../img32.avif"
+      },
+      {
+        "id": 33,
+        "title": "Microsoft Surface pro 6",
+        "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+        "price": 1700,
+        "discountPercentage": 6,
+        "rating": 4.5,
+        "stock": 50,
+        "brand": "Microsoft Surface",
+        "category": "laptops",
+        "thumbnail": "../img33.webp"
+      },
+      {
+        "id": 9,
+        "title": "Infinix INBOOK X1",
+        "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+        "price": 1099,
+        "discountPercentage": 11.5,
+        "rating": 4.54,
+        "stock": 96,
+        "brand": "Infinix",
+        "category": "laptops",
+        "thumbnail": "../img9.jpg"
+      },
+      {
+        "id": 30,
+        "title": "Infinix INBOOK X2",
+        "description": "Infinix Inbook X2 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+        "price": 1400,
+        "discountPercentage": 11,
+        "rating": 4.6,
+        "stock": 80,
+        "brand": "Infinix",
+        "category": "laptops",
+        "thumbnail": "../img30.jpg"
+      },
+      {
+        "id": 31,
+        "title": "Infinix INBOOK X3",
+        "description": "Infinix Inbook X3 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+        "price": 1700,
+        "discountPercentage": 100,
+        "rating": 4.8,
+        "stock": 40,
+        "brand": "Infinix",
+        "category": "laptops",
+        "thumbnail": "../img31.webp"
+      },
+      {
+        "id": 10,
+        "title": "HP Pavilion 15-DK1056WM",
+        "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+        "price": 1099,
+        "discountPercentage": 6.5,
+        "rating": 4.43,
+        "stock": 89,
+        "brand": "HP Pavilion",
+        "category": "laptops",
+        "thumbnail": "../img10.jpeg"
+      },
+      {
+        "id": 28,
+        "title": "HP Pavilion G6 core-i5",
+        "description": "HP Pavilion G6 core-i5 Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+        "price": 1500,
+        "discountPercentage": 6.5,
+        "rating": 4.43,
+        "stock": 57,
+        "brand": "HP Pavilion",
+        "category": "laptops",
+        "thumbnail": "../img28.jpg"
+      },
+      {
+        "id": 29,
+        "title": "HP Pavilion G6 core-i3",
+        "description": "HP Pavilion G6 core-i3 Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+        "price": 900,
+        "discountPercentage": 5,
+        "rating": 4,
+        "stock": 59,
+        "brand": "HP Pavilion",
+        "category": "laptops",
+        "thumbnail": "../img29.webp"
+      }
+    ],
+    "productsbrands": [
+      "Apple",
+      "HP Pavilion",
+      "Infinix",
+      "Microsoft Surface",
+      "Samsung",
+      "Dell",
+      "Huawei",
+      "OPPO"
+    ]
+  }
